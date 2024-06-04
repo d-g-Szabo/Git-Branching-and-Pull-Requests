@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+footer {
+  margin: 0;
+  padding: 0;
+  background-color: peru;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+}
